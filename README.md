@@ -74,7 +74,7 @@ This is intended for research purposes and provides a minimal interface to Chron
 Install the library by running:
 
 ```
-pip install git+https://github.com/amazon-science/chronos-forecasting.git
+pip install chronos-forecasting
 ```
 
 A minimal example showing how to perform inference using Chronos-Bolt models:
